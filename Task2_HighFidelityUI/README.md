@@ -2,7 +2,7 @@
 
 ## Project: HappyBites Food Delivery App
 ## Tool: Stitch by Google
-## Intern: [Your Name]
+## Intern: Lipsita Khadgarai
 
 ## About This Task
 Converted wireframes into complete 
