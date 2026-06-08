@@ -13,6 +13,7 @@
 **Designed with ❤️ by Lipsita Khadgarai**
 
 [🔗 LinkedIn](https://www.linkedin.com/in/lipsita-khadgarai) • [📧 Email](mailto:lipsitakhadgarai16@gmail.com) • [🐙 GitHub](https://github.com/lipsitakhadgarai02)
+**🔗 Live Prototype Link:** [\[Click Here to View\]](https://stitch.withgoogle.com/preview/3233502659686381400?node-id=441f88c729974309aacb91bf17cedaa1)
 
 </div>
 
@@ -102,7 +103,7 @@ Converted wireframes into a complete high fidelity UI design with a full design 
 
 Built a fully clickable prototype connecting all 13 screens into a complete user journey with smooth transitions and navigation.
 
-**🔗 Live Prototype Link:** [\[Click Here to View\]]https://stitch.withgoogle.com/preview/3233502659686381400?node-id=441f88c729974309aacb91bf17cedaa1
+**🔗 Live Prototype Link:** [\[Click Here to View\]](https://stitch.withgoogle.com/preview/3233502659686381400?node-id=441f88c729974309aacb91bf17cedaa1)
 
 **Prototype Flow:**
 ```
