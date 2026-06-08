@@ -125,6 +125,39 @@ Built a fully clickable prototype connecting all 13 screens into a complete user
 
 ## 📁 Folder Structure
 ---
+codealpha_tasks/
+│
+├── 📁 Task1_Wireframing/
+│   ├── WF_01_Login.png
+│   ├── WF_02_Home.png
+│   ├── WF_03_Restaurant.png
+│   ├── WF_04_Cart.png
+│   ├── WF_05_Checkout.png
+│   ├── WF_06_OrderTracking.png
+│   └── README.md
+│
+├── 📁 Task2_HighFidelityUI/
+│   ├── 01_Splash.png
+│   ├── 02_Onboarding1.png
+│   ├── 03_Onboarding2.png
+│   ├── 04_Onboarding3.png
+│   ├── 05_Login.png
+│   ├── 06_SignUp.png
+│   ├── 07_Home.png
+│   ├── 08_Search.png
+│   ├── 09_Restaurant.png
+│   ├── 10_Cart.png
+│   ├── 11_Checkout.png
+│   ├── 12_OrderTracking.png
+│   ├── 13_OrderHistory.png
+│   └── README.md
+│
+├── 📁 Task3_Prototype/
+│   ├── prototype_link.txt
+│   ├── PrototypeFlow.png
+│   └── README.md
+│
+└── README.md ← You are here!
 
 ## 📊 Project Stats
 
