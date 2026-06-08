@@ -3,9 +3,9 @@
 # 🍊 HappyBites — Food Delivery App
 ### CodeAlpha UI/UX Design Internship
 
-![HappyBites](https://img.shields.io/badge/HappyBites-Food%20Delivery%20App-FF6B35?style=for-the-badge)
+![HappyBites](https://img.shields.io/badge/HappyBites-Food%20Delivery%20App-FF6B35?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0tMiAxNWwtNS01IDEuNDEtMS40MUwxMCAxNC4xN2w3LjU5LTcuNTlMMTkgOGwtOSA5eiIvPjwvc3ZnPg==)
 ![Internship](https://img.shields.io/badge/CodeAlpha-Internship-2D2D2D?style=for-the-badge)
-![Domain](https://img.shields.io/badge/Domain-UI%2FUX%20Design-FF6B35?style=for-the-badge)
+![Domain](https://img.shields.io/badge/Domain-UI%2FUX%20Design-FFF8F0?style=for-the-badge&labelColor=FF6B35)
 ![Status](https://img.shields.io/badge/Status-Completed%20✅-2ECC71?style=for-the-badge)
 
 <br/>
@@ -47,7 +47,7 @@ Users struggle with hidden fees, cluttered interfaces and poor order tracking on
 ### 📐 Task 1 — Wireframing & Low Fidelity Design
 > 📁 [`Task1_Wireframing`](./Task1_Wireframing)
 
-Created low fidelity grayscale wireframes for 6 core screens of HappyBites focusing on layout, structure and user flow before any visual design was applied.
+Created low fidelity grayscale wireframes for 6 core screens of HappyBites focusing on layout, structure and user flow — before any visual design was applied.
 
 **Wireframes Created:**
 - 🔲 Login Screen
@@ -102,17 +102,9 @@ Converted wireframes into a complete high fidelity UI design with a full design 
 
 Built a fully clickable prototype connecting all 13 screens into a complete user journey with smooth transitions and navigation.
 
-**🔗 Live Prototype Link:** [Click Here to View](#) ← Update this link after Netlify deploy
+**🔗 Live Prototype Link:** [Click Here to View](https://your-netlify-link.netlify.app)
 
 **Prototype Flow:**
-```
-Splash → Onboarding 1 → Onboarding 2 → Onboarding 3
-       → Login ↔ Sign Up
-       → Home → Search → Restaurant
-       → Cart → Checkout → Order Tracking
-       → Order History
-```
-
 **Transitions Used:**
 - Dissolve → Splash to Onboarding
 - Slide Left → Forward navigation
@@ -132,8 +124,7 @@ Splash → Onboarding 1 → Onboarding 2 → Onboarding 3
 ---
 
 ## 📁 Folder Structure
-
-```
+---
 codealpha_tasks/
 │
 ├── 📁 Task1_Wireframing/
@@ -167,9 +158,6 @@ codealpha_tasks/
 │   └── README.md
 │
 └── README.md ← You are here!
-```
-
----
 
 ## 📊 Project Stats
 
