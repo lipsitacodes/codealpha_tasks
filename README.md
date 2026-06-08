@@ -102,7 +102,7 @@ Converted wireframes into a complete high fidelity UI design with a full design 
 
 Built a fully clickable prototype connecting all 13 screens into a complete user journey with smooth transitions and navigation.
 
-**🔗 Live Prototype Link:** [Click Here to View](#) ← Update this link after Netlify deploy
+**🔗 Live Prototype Link:** [\[Click Here to View\]](https://stitch.withgoogle.com/preview/3233502659686381400?node-id=82a854e4e4f24ce880e9620913500f25)
 
 **Prototype Flow:**
 ```
