@@ -105,3 +105,48 @@ Built a fully clickable prototype connecting all 13 screens into a complete user
 **🔗 Live Prototype Link:** [Click Here to View](https://your-netlify-link.netlify.app)
 
 **Prototype Flow:**
+**Transitions Used:**
+- Dissolve → Splash to Onboarding
+- Slide Left → Forward navigation
+- Slide Right → Back navigation
+- Slide Up → Cart overlay
+
+---
+
+## 🛠️ Tools Used
+
+| Tool | Purpose |
+|------|---------|
+| ![Stitch](https://img.shields.io/badge/Stitch-Google-4285F4?style=flat-square) | AI UI Generation |
+| ![Figma](https://img.shields.io/badge/Figma-Design-F24E1E?style=flat-square) | Design Reference |
+| ![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square) | Version Control |
+
+---
+
+## 📁 Folder Structure
+---
+
+## 📊 Project Stats
+
+![Screens](https://img.shields.io/badge/Screens-13-FF6B35?style=for-the-badge)
+![Wireframes](https://img.shields.io/badge/Wireframes-6-2D2D2D?style=for-the-badge)
+![Tasks](https://img.shields.io/badge/Tasks%20Completed-3%2F3-2ECC71?style=for-the-badge)
+![Frame](https://img.shields.io/badge/Frame%20Size-390x844px-FFD93D?style=for-the-badge)
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lipsita%20Khadgarai-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lipsita-khadgarai)
+[![Gmail](https://img.shields.io/badge/Gmail-lipsitakhadgarai16-D14836?style=for-the-badge&logo=gmail)](mailto:lipsitakhadgarai16@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-lipsitakhadgarai02-181717?style=for-the-badge&logo=github)](https://github.com/lipsitakhadgarai02)
+
+<br/>
+
+⭐ **Star this repo if you found it helpful!**
+
+*Made with 🧡 during CodeAlpha UI/UX Design Internship*
+
+</div>
