@@ -5,7 +5,7 @@
 ## Intern: Lipsita Khadgarai
 
 ## Prototype Link
-[\[Paste your Netlify link here\]](https://stitch.withgoogle.com/preview/3233502659686381400?node-id=441f88c729974309aacb91bf17cedaa1)
+[\[Click Here to View\]](https://stitch.withgoogle.com/preview/3233502659686381400?node-id=441f88c729974309aacb91bf17cedaa1)
 
 ## About This Task
 Created a fully clickable prototype
