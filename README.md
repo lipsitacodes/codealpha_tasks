@@ -61,7 +61,7 @@ Created low fidelity grayscale wireframes for 6 core screens of HappyBites focus
 ---
 
 ### 🎨 Task 2 — High Fidelity UI Design
-> 📁 [`Task2_HighFidelityUI`](./Task2_HighFidelityUI)
+> 📁 [`Task2_HighFidelityUI`](Task2_HighFidelityUI)
 
 Converted wireframes into a complete high fidelity UI design with a full design system, real food imagery and production ready screens.
 
