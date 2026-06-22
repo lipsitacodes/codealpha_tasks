@@ -46,7 +46,7 @@ Users struggle with hidden fees, cluttered interfaces and poor order tracking on
 ## ✅ Tasks Completed
 
 ### 📐 Task 1 — Wireframing & Low Fidelity Design
-> 📁 [`Task1_Wireframing`](./Task1_Wireframing)
+> 📁 [`Task1_Wireframing`](Task1_Wireframing)
 
 Created low fidelity grayscale wireframes for 6 core screens of HappyBites focusing on layout, structure and user flow before any visual design was applied.
 
