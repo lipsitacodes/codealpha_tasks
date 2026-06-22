@@ -28,7 +28,7 @@
 | **Year** | 2nd Year → 3rd Year |
 | **Internship** | CodeAlpha UI/UX Design Internship |
 | **LinkedIn** | [lipsita-khadgarai](https://www.linkedin.com/in/lipsita-khadgarai) |
-| **Email** | lipsitakhadgarai16@gmail.com |
+| **Email** | lipsitakhadgaraitech@gmail.com |
 
 ---
 
